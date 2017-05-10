@@ -1,0 +1,97 @@
+/* Here goes your CSS */
+/* Here goes your CSS */
+body {
+  background-color: rgb(210, 210, 210);
+}
+
+#profile_picture {
+  width: 200px;
+  margin: 0 auto;
+}
+
+.intro {
+  background-color: rgb(230, 230, 230);
+  width: 700px;
+  border-radius: 5px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 5px 0px 5px 0px;
+}
+h1, h3 {
+  font-family: 'Righteous', serif;
+  color: rgb(100, 100, 100);
+  text-align: center;
+}
+
+h2 {
+font-family: 'Sanchez';
+color: rgb(100, 100, 100);
+font-style: italic;
+}
+
+p {
+  color: rgb(40, 40, 40);
+  padding: 10px;
+  font-style: italic;
+  font-size: 20px;
+  text-align: center;
+}
+
+table h3 {
+  color: brown;
+}
+
+table img {
+  padding: 5px 9px;
+}
+
+img {
+  width: 100%;
+}
+
+#profile {
+  border-radius: 100px;
+  margin: 30px 0px;
+}
+
+.card {
+  width: 700px;
+  background-color: rgb(230,230,230);
+  border-radius: 5px;
+  box-shadow: 2px 2px 3px rgb(180, 180, 180);
+  margin: 10px auto;
+  text-align: center;
+  padding: 5px 0px 5px 0px;
+}
+
+a:hover {
+  color: darkgrey;
+}
+
+.card ul {
+  padding: 0;
+}
+
+.card ul > li {
+  display: inline-block;
+  text-align: center;
+  font-size: 1.25em;
+  color: white;
+  margin: 0px;
+}
+
+a {
+  text-decoration: none;
+  color: grey;
+  padding: 20px;
+}
+
+#footer {
+  padding: 0px;
+  font-size: 2em;
+}
+
+#footer i {
+  padding: 10px 20px;
+}
+

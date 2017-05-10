@@ -16,6 +16,7 @@ body {
   margin: 0 auto;
   text-align: center;
   padding: 5px 0px 5px 0px;
+  box-shadow: 2px 2px 3px rgb(180, 180, 180);
 }
 h1, h3 {
   font-family: 'Righteous', serif;
